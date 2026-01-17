@@ -1,0 +1,82 @@
+# Arquivos compilados MQL5
+*.ex5
+*.ex4
+*.obj
+
+# Arquivos de log
+*.log
+*.txt
+
+# Arquivos de backup
+*.bak
+*.backup
+*~
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos do IDE/Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.sublime-workspace
+*.sublime-project
+
+# Pasta de compilação
+build/
+dist/
+*.egg-info/
+__pycache__/
+
+# Arquivos temporários
+*.tmp
+*.temp
+.tmp/
+
+# Arquivos do MetaTrader
+terminal.ini
+tester.ini
+*.exe
+
+# Dados de backtesting
+backtest_results/
+optimization_results/
+
+# Credenciais e arquivos sensíveis
+.env
+.env.local
+credentials.txt
+passwords.txt
+secrets.json
+
+# Node modules (se usar ferramentas JavaScript)
+node_modules/
+package-lock.json
+yarn.lock
+
+# Python venv
+venv/
+env/
+ENV/
+
+# Arquivos do projeto IDE
+.project
+.classpath
+.c9/
+
+# OS files
+*.pyo
+*.pyc
+.Python
+*.so
+
+# Arquivos de configuração local
+config.local.json
+settings.local.ini
+
+# Cache
+.cache/
+*.cache
