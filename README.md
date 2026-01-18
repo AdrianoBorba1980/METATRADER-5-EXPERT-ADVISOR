@@ -71,7 +71,7 @@ Gerais:
 - Comentário: Descrição das ordens (padrão: "Expert Advisor")
 
 Volume da Posição:
-- TamanhoLote: Tamanho fixo de lote (padrão: 0.1)
+- TamanhoLote: Tamanho fixo de lote (padrão: 1.0)
 - ControleRiscoPercentual: Percentual de risco do capital (padrão: 2%)
 
 Gerenciamento de Risco:
